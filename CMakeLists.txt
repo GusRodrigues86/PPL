@@ -65,6 +65,7 @@ set(DEFINITIONS
     XPLM300=1
     XPLM301=1
     XPLM400=1
+    XPLM410=1
     ${PLATFORM_CORE_DEFINITIONS})
 
 include_directories(${CMAKE_SOURCE_DIR}/include/SDK/CHeaders/XPLM
